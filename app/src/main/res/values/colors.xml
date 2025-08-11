@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="backgroundColor">#1E1E2A</color>
+    <color name="colorPrimary">#312E4F</color>
+    <color name="colorPrimaryDark">#1A182E</color>
+    <color name="colorAccent">#8A79DF</color>
+    <color name="sentBubbleColor">#5851D8</color>
+    <color name="receivedBubbleColor">#42425B</color>
+    <color name="textColorPrimary">#E0E0E0</color>
+    <color name="glass_fill">#33FFFFFF</color> <color name="glass_stroke">#80FFFFFF</color>
+
+    <color name="textColorSecondary">#9E9E9E</color>
 </resources>

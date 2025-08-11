@@ -11,6 +11,6 @@
         android:layout_height="wrap_content"
         android:background="@drawable/sent_message_background"
         android:padding="12dp"
-        android:textColor="@android:color/white"
+        android:textColor="@color/textColorPrimary"
         android:text="Bu gönderilen bir mesaj." />
 </LinearLayout>

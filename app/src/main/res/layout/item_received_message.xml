@@ -11,6 +11,6 @@
         android:layout_height="wrap_content"
         android:background="@drawable/received_message_background"
         android:padding="12dp"
-        android:textColor="@android:color/black"
+        android:textColor="@color/textColorPrimary"
         android:text="Bu alınan bir mesaj." />
 </LinearLayout>
